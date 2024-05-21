@@ -1,6 +1,4 @@
 
-
-/* Body styles */
 body {
     font-family: Playfair Display, sans-serif;
     line-height: 1.6;
@@ -8,7 +6,6 @@ body {
     padding: 5%;
 }
 
-/* Header styles */
 header {
     background-color: #333;
     color: #fff;
@@ -16,20 +13,17 @@ header {
     padding: 1rem 0;
 }
 
-/* Main styles */
 main {
 
     padding: 50px;
 }
 
-/* Section and Article styles */
 #about, article, section {
     margin-bottom: 30px;
     padding: 20px;
     background-color: #fff;
 }
 
-/* Heading styles */
 h1 {
     margin-bottom: 10px;
     font-size: 50px;
@@ -42,7 +36,6 @@ h1 {
     text-align: center;
 }
 
-/* Image styles */
 img {
     max-width: 100%;
     height: auto;
@@ -50,13 +43,11 @@ img {
     margin: 0 auto;
 }
 
-/* Footer styles */
 footer {
        text-align: center;
     padding: 1rem 0;
 }
 
-/* Article styles */
 #att1, #att2, #att3, #att4 {
     border-style: solid;
     padding-left: 40px;
@@ -67,7 +58,6 @@ footer {
     
 }
 
-/* Clear floating */
 #interest{
     clear: both;
     text-decoration: none;
