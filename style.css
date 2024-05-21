@@ -1,0 +1,108 @@
+
+
+/* Body styles */
+body {
+    font-family: Playfair Display, sans-serif;
+    line-height: 1.6;
+    background-color: #d8d8d8;
+    padding: 5%;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* Main styles */
+main {
+
+    padding: 50px;
+}
+
+/* Section and Article styles */
+#about, article, section {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+/* Heading styles */
+h1 {
+    margin-bottom: 10px;
+    font-size: 50px;
+    
+}
+
+/* Paragraph styles */
+#att1 p, #att2 p, #att3 p, #att4 p {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Footer styles */
+footer {
+       text-align: center;
+    padding: 1rem 0;
+}
+
+/* Article styles */
+#att1, #att2, #att3, #att4 {
+    border-style: solid;
+    padding-left: 40px;
+    float: left;
+    width: 20%;
+    margin-left: 10px;
+    
+    
+}
+
+/* Clear floating */
+#interest{
+    clear: both;
+    text-decoration: none;
+}
+
+#about img {
+    width: 40%
+}
+
+
+
+
+#attractions {
+    text-align: center;
+    padding: 20px;
+
+}
+
+h2 {
+        margin-bottom: 10px;
+    font-size: 25px;
+
+}
+
+#att1 a, #att2 a , #att3 a , #att4 a {
+    color: black;
+}
+
+a:hover {
+    
+color: blue;
+}
+
+
+
+
+
+
